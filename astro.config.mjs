@@ -43,9 +43,11 @@ export default defineConfig({
       ],
       customCss: ["./src/styles/docs.css", "./src/fonts/font-face.css"],
       social: {
+        discord: "https://discord.gg/q85NGY4A",
+        linkedin: "https://www.linkedin.com/company/invoicelink-io/",
+        instagram: "https://www.instagram.com/invoicelink.io/",
         threads: "https://www.threads.net/@invoicelink.io",
         "x.com": "https://x.com/invoicelink_io",
-        discord: "https://discord.gg/q85NGY4A",
       },
       sidebar: [
         {
