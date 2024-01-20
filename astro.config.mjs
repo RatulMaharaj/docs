@@ -8,9 +8,6 @@ export default defineConfig({
     starlight({
       title: "invoicelink docs",
       favicon: "/favicon.png",
-      editLink: {
-        baseUrl: "https://github.com/RatulMaharaj/invoicelink-docs/edit/main/",
-      },
       head: [
         {
           tag: "meta",
