@@ -45,7 +45,7 @@ export default defineConfig({
         instagram: "https://www.instagram.com/invoicelink.io/",
         threads: "https://www.threads.net/@invoicelink.io",
         "x.com": "https://x.com/invoicelink_io",
-        discord: "https://discord.gg/q85NGY4A",
+        discord: "https://discord.gg/TwCrkdCnPS",
       },
       sidebar: [
         {

@@ -17,4 +17,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Check out [the invoicelink.io documentation](https://docs.invoicelink.io) or jump into the [invoicelink.io Discord server](https://discord.gg/q85NGY4A).
+Check out [the invoicelink.io documentation](https://docs.invoicelink.io) or jump into the [invoicelink.io Discord server](https://discord.gg/TwCrkdCnPS).
